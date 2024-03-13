@@ -9,7 +9,7 @@ The dataset can be accessed by downloading "hotel_bookingscsv" or https://www.ka
 ## File Structure
 Our project include four part: data wrangling, EDA, advanced EDA, model building. **The whole process can be run using "ece143_hotel_booking_concise.ipynb", or you can also run part by part** as the following:
 - Data Wrangling: "data_cleaning.py", clean and pre-process the data.
-- EDA: "EDA.py", get the insights about the data and plot data for detailed analysis.
+- EDA: "get_fig.py", get the insights about the data and plot data for detailed analysis.
 - Advanced EDA: "STL_analysis.py", check trend or seasonal pattern in the data.
 - Model Building: "RFC.py", build random forest classifier for prediction.
 
